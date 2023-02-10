@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+
+    <cargo name="Oficer" chance="1.00">
+           <item name="CigarettePack_Chernamorka" chance="0.40"/>
+           <item name="CigarettePack_Merkur" chance="0.30"/>
+           <item name="CigarettePack_Partyzanka" chance="0.35"/>
+           <item name="FS_License_L1" chance="0.1"/>
+ </cargo>
+     <cargo name="Baril" chance="1.00">
+           <item name="SodaCan_Pipsi" chance="0.40"/>
+           <item name="SodaCan_Cola" chance="0.30"/>
+           <item name="SodaCan_Spite" chance="0.35"/>
+           <item name="FS_License_L1" chance="0.15"/>
+ </cargo>
+     <cargo name="Bulat" chance="1.00">
+           <item name="Bear_Pink" chance="0.40"/>
+           <item name="Bear_Dark" chance="0.35"/>
+           <item name="Bear_Beige" chance="0.30"/>
+           <item name="Bear_White" chance="0.25"/>
+           <item name="FS_License_L" chance="0.15"/>
+ </cargo>
+     <cargo name="Polter" chance="1.00">
+           <item name="FS_Probirka_Polterges" chance="0.30"/>
+           <item name="FS_KPK_FV" chance="0.05"/>
+           <item name="ART_Pustishka" chance="0.05"/>
+ </cargo>
+     <cargo name="Polter_Invz" chance="1.00">
+           <item name="FS_Probirka_SlizBlue" chance="0.40"/>
+           <item name="FS_KPK_FV" chance="0.05"/>
+           <item name="ART_Tapeworm" chance="0.10"/>
+ </cargo>
+     <cargo name="Zombie_1" chance="1.00">
+           <item name="CigarettePack_Chernamorka" chance="0.30"/>
+           <item name="SodaCan_Pipsi" chance="0.30"/>
+           <item name="Bear_Pink " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_2" chance="1.00">
+           <item name="CigarettePack_Merkur" chance="0.30"/>
+           <item name="SodaCan_Cola" chance="0.30"/>
+           <item name="Bear_Dark " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_3" chance="1.00">
+           <item name="CigarettePack_Partyzanka" chance="0.30"/>
+           <item name="SodaCan_Spite" chance="0.30"/>
+           <item name="Bear_Beige" chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_4" chance="1.00">
+           <item name="CigarettePack_Chernamorka" chance="0.30"/>
+           <item name="SodaCan_Pipsi" chance="0.30"/>
+           <item name="Bear_Pink " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_5" chance="1.00">
+           <item name="CigarettePack_Merkur" chance="0.30"/>
+           <item name="SodaCan_Cola" chance="0.30"/>
+           <item name="Bear_Dark " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_6" chance="1.00">
+           <item name="CigarettePack_Partyzanka" chance="0.30"/>
+           <item name="SodaCan_Spite" chance="0.30"/>
+           <item name="Bear_Beige" chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_7" chance="1.00">
+           <item name="CigarettePack_Chernamorka" chance="0.30"/>
+           <item name="SodaCan_Pipsi" chance="0.30"/>
+           <item name="Bear_Pink " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_8" chance="1.00">
+           <item name="CigarettePack_Merkur" chance="0.30"/>
+           <item name="SodaCan_Cola" chance="0.30"/>
+           <item name="Bear_Dark " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_9" chance="1.00">
+           <item name="CigarettePack_Partyzanka" chance="0.30"/>
+           <item name="SodaCan_Spite" chance="0.30"/>
+           <item name="Bear_Beige" chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_10" chance="1.00">
+           <item name="CigarettePack_Chernamorka" chance="0.30"/>
+           <item name="SodaCan_Pipsi" chance="0.30"/>
+           <item name="Bear_Pink " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_11" chance="1.00">
+           <item name="CigarettePack_Merkur" chance="0.30"/>
+           <item name="SodaCan_Cola" chance="0.30"/>
+           <item name="Bear_Dark " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_12" chance="1.00">
+           <item name="CigarettePack_Partyzanka" chance="0.30"/>
+           <item name="SodaCan_Spite" chance="0.30"/>
+           <item name="Bear_Beige" chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_13" chance="1.00">
+           <item name="CigarettePack_Chernamorka" chance="0.30"/>
+           <item name="SodaCan_Pipsi" chance="0.30"/>
+           <item name="Bear_Pink " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_14" chance="1.00">
+           <item name="CigarettePack_Merkur" chance="0.30"/>
+           <item name="SodaCan_Cola" chance="0.30"/>
+           <item name="Bear_Dark " chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="Zombie_15" chance="1.00">
+           <item name="CigarettePack_Partyzanka" chance="0.30"/>
+           <item name="SodaCan_Spite" chance="0.30"/>
+           <item name="Bear_Beige" chance="0.30"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="ZMB_Stalker" chance="1.00">
+           <item name="FS_RuinedZmB_Head" chance="0.10"/>
+           <item name="geigerjmih" chance="0.10"/>
+           <item name="otkliс" chance="0.10"/>
+           <item name="Kapsula_empty" chance="0.10"/>
+           <item name="PetrolLighter" chance="0.10"/>
+           <item name="PersonalRadio" chance="0.10"/>
+           <item name="Container1" chance="0.05"/>
+           <item name="ART_Gravi1" chance="0.02"/>
+           <item name="ART_Electra_flash1" chance="0.02"/>
+           <item name="ART_Vyvert" chance="0.02"/>
+ </cargo>
+     <cargo name="ZMB_Stalker_Top" chance="1.00">
+         <item name="FS_RuinedZmB_Head" chance="0.15"/>
+         <item name="geigerjmih" chance="0.10"/>
+         <item name="otkliс" chance="0.10"/>
+         <item name="Kapsula_empty" chance="0.10"/>
+         <item name="PetrolLighter" chance="0.10"/>
+         <item name="PersonalRadio" chance="0.10"/>
+         <item name="Container1" chance="0.05"/>
+         <item name="ART_Gravi1" chance="0.02"/>
+         <item name="ART_Electra_flash1" chance="0.02"/>
+         <item name="ART_Vyvert" chance="0.02"/>
+ </cargo>
+     <cargo name="ZMB_Stalker_TopGas" chance="1.00">
+         <item name="FS_RuinedZmB_Head" chance="0.20"/>
+         <item name="geigerjmih" chance="0.10"/>
+         <item name="otkliс" chance="0.10"/>
+         <item name="Kapsula_empty" chance="0.10"/>
+         <item name="PetrolLighter" chance="0.10"/>
+         <item name="PersonalRadio" chance="0.10"/>
+         <item name="Container1" chance="0.05"/>
+         <item name="ART_Gravi1" chance="0.02"/>
+         <item name="ART_Electra_flash1" chance="0.02"/>
+         <item name="ART_Vyvert" chance="0.02"/>
+ </cargo>
+     <cargo name="ZMB_Stalker_Ruined" chance="1.00">
+         <item name="FS_RuinedZmB_Head" chance="0.25"/>
+         <item name="geigerjmih" chance="0.10"/>
+         <item name="otkliс" chance="0.10"/>
+         <item name="Kapsula_empty" chance="0.10"/>
+         <item name="PetrolLighter" chance="0.10"/>
+         <item name="PersonalRadio" chance="0.10"/>
+         <item name="Container1" chance="0.05"/>
+         <item name="ART_Gravi1" chance="0.02"/>
+         <item name="ART_Electra_flash1" chance="0.02"/>
+         <item name="ART_Vyvert" chance="0.02"/>
+ </cargo>
+     <cargo name="ZMB_Stalker_KrovoSOS50" chance="1.00">
+         <item name="FS_RuinedZmB_Head" chance="0.30"/>
+         <item name="geigerjmih" chance="0.10"/>
+         <item name="otkliс" chance="0.10"/>
+         <item name="Kapsula_empty" chance="0.10"/>
+         <item name="PetrolLighter" chance="0.10"/>
+         <item name="PersonalRadio" chance="0.10"/>
+         <item name="Container1" chance="0.05"/>
+         <item name="ART_Gravi1" chance="0.02"/>
+         <item name="ART_Electra_flash1" chance="0.02"/>
+         <item name="ART_Vyvert" chance="0.02"/>
+ </cargo>
+     <cargo name="ZMB_Stalker_KrovoSOS80" chance="1.00">
+         <item name="FS_RuinedZmB_Head" chance="0.35"/>
+         <item name="geigerjmih" chance="0.10"/>
+         <item name="otkliс" chance="0.10"/>
+         <item name="Kapsula_empty" chance="0.10"/>
+         <item name="PetrolLighter" chance="0.10"/>
+         <item name="PersonalRadio" chance="0.10"/>
+         <item name="Container1" chance="0.05"/>
+         <item name="ART_Gravi1" chance="0.02"/>
+         <item name="ART_Electra_flash1" chance="0.02"/>
+         <item name="ART_Vyvert" chance="0.02"/>
+ </cargo>
+     <cargo name="RuinedZMB" chance="1.00">
+         <item name="FS_RuinedZmB_Head" chance="0.40"/>
+         <item name="geigerjmih" chance="0.10"/>
+         <item name="otkliс" chance="0.10"/>
+         <item name="Kapsula_empty" chance="0.10"/>
+         <item name="PetrolLighter" chance="0.10"/>
+         <item name="PersonalRadio" chance="0.10"/>
+         <item name="Container1" chance="0.05"/>
+         <item name="ART_Gravi1" chance="0.02"/>
+         <item name="ART_Electra_flash1" chance="0.02"/>
+         <item name="ART_Vyvert" chance="0.02"/>
+ </cargo>
+     <cargo name="MONOLIT_ZMB" chance="1.00">
+           <item name="FS_Document_1" chance="0.05"/>
+ </cargo>
+     <cargo name="ZombieType2" chance="0.10">
+           <item name="FS_Probirka_Blood" chance="1.00"/>
+ </cargo>
+     <cargo name="ZombieType2_noTkan" chance="0.20">
+           <item name="FS_Probirka_Blood" chance="1.00"/>
+ </cargo>
+     <cargo name="Kontroler" chance="1.00">
+           <item name="FS_Kontroler_Brain" chance="0.30"/>
+           <item name="Handcuffs" chance="0.05"/>
+           <item name="Compass" chance="0.05"/>
+           <item name="Rope" chance="0.05"/>
+           <item name="ART_Kogot" chance="0.03"/>
+           <item name="ART_Generator" chance="0.03"/>
+           <item name="FS_Document_3" chance="0.01"/>
+ </cargo>
+     <cargo name="Kontroler_2" chance="1.00">
+           <item name="WarZone_chasti_mozg_kontrolera" chance="0.10"/>
+           <item name="WarZone_chasti_ruka_kontrolera" chance="0.30"/>
+           <item name="Handcuffs" chance="0.05"/>
+           <item name="Compass" chance="0.05"/>
+           <item name="Rope" chance="0.05"/>
+           <item name="ART_Kogot" chance="0.03"/>
+           <item name="ART_Generator" chance="0.03"/>
+           <item name="FS_Document_3" chance="0.01"/>
+ </cargo>
+     <cargo name="Snork" chance="1.00">
+           <item name="WarZone_chasti_ruka_snorka" chance="0.40"/>
+           <item name="FS_Snork_Head" chance="0.20"/>
+           <item name="MSFCGasMaskGP5Tan" chance="0.25"/>
+ </cargo>
+     <cargo name="Snork_Boss" chance="1.00">
+           <item name="FS_Snork_Head_boss" chance="0.10"/>
+           <item name="WarZone_chasti_noga_snorka" chance="0.30"/>
+           <item name="WarZone_chasti_ruka_snorka" chance="0.40"/>
+           <item name="MSFCGasMaskGP5Tan" chance="0.25"/>
+           <item name="Epinephrine" chance="0.10"/>
+ </cargo>
+     <cargo name="KrovoSOS" chance="1.00">
+           <item name="FS_KrovoSOS_Tentacles" chance="0.60"/>
+           <item name="FS_KrovoSOS_Tentacles" chance="0.60"/>
+ </cargo>
+     <cargo name="KrovoSOS_invisible" chance="1.00">
+           <item name="FS_KrovoSOS_Head" chance="0.30"/>
+           <item name="FS_KrovoSOS_Tentacles" chance="0.50"/>
+           <item name="FS_KrovoSOS_Tentacles" chance="0.50"/>
+           <item name="ART_Ring" chance="0.10"/>
+ </cargo>
+     <cargo name="KrovoSOS_Dark" chance="1.00">
+           <item name="FS_KrovoSOS_Head_Dark" chance="0.35"/>
+           <item name="FS_KrovoSOS_Tentacles" chance="0.50"/>
+           <item name="FS_KrovoSOS_Tentacles" chance="0.50"/>
+ </cargo>
+     <cargo name="KrovoSOS_Blood" chance="1.00">
+           <item name="FS_KrovoSOS_Head_Blood" chance="0.40"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="ART_Blood2" chance="0.05"/>
+ </cargo>
+     <cargo name="KrovoSOS_BolotTvar" chance="1.00">
+           <item name="FS_KrovoSOS_Head_BolotTvar" chance="0.30"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="ART_FuzzKolobok2" chance="0.05"/>
+ </cargo>
+     <cargo name="KrovososType2_Volkodav" chance="1.00">
+           <item name="FS_KrovoSOS_Tentacles" chance="0.35"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.50"/>
+ </cargo>
+     <cargo name="KrovososType2_Volkodav_Ser" chance="1.00">
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.65"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.15"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.15"/>
+           <item name="WarZone_chasti_chupalsa_krovososa" chance="0.15"/>
+           <item name="ART_Ring" chance="0.10"/>
+           <item name="ART_Soul2" chance="0.05"/>
+ </cargo>
+     <cargo name="pristine_bandit" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="pristine_dolg" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+ </cargo>
+     <cargo name="pristine_Svoboda" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+           <item name="medved" chance="0.02"/>
+ </cargo>
+     <cargo name="pristine_Monolit" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="MSFCGasMaskM50White" chance="0.03"/>
+ </cargo>
+     <cargo name="pristine_specnaz" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="pristine_tank" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="damaged_bandit" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="damaged_dolg" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="damaged_Svoboda" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="damaged_Monolit" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="MSFCGasMaskM50White" chance="0.03"/>
+ </cargo>
+     <cargo name="damaged_specnaz" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="damaged_tank" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="Ruined_bandit" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="Ruined_dolg" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="Ruined_Svoboda" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="Matchbox" chance="0.19"/>
+           <item name="medved" chance="0.02"/>
+ </cargo>
+     <cargo name="Ruined_Monolit" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+ </cargo>
+     <cargo name="Ruined_specnaz" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="Ruined_tank" chance="1.00">
+           <item name="FS_TOZ34_MINI" chance="0.30"/>
+           <item name="FS_RuinedZmB_Head" chance="0.20"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+           <item name="AmmoBox_12gaSlug_10Rnd" chance="0.25"/>
+ </cargo>
+     <cargo name="Izlome" chance="1.00">
+           <item name="WarZone_chasti_Ruka_Izlom" chance="0.30"/>
+           <item name="FS_ITEM_VODKA" chance="0.30"/>
+           <item name="TunaCan" chance="0.30"/>
+           <item name="HuntingKnife" chance="0.30"/>
+           <item name="ART_Pustishka" chance="0.10"/>
+           <item name="ART_Gravi1" chance="0.05"/>
+           <item name="ART_FuzzKolobok" chance="0.02"/>
+ </cargo>
+</randompresets>
+
