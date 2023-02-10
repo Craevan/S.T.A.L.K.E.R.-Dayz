@@ -1,0 +1,12 @@
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			SurvivorM_Quinn
+<ObjectPosition>	4854.3,    92.2,     2375.1
+<ObjectOrientation>	85,         0,			0
+<ObjectAttachment>	Novice_AoD_Hood1_Blk_Body
+<ObjectAttachment>	aod_pants_bandit3_gorka
+<ObjectAttachment>	CombatBoots_Black
+<ObjectAttachment>	TacticalGloves_Black
+
+<OpenFile> 03_Barman_NPC.txt
+<FileEnd>

@@ -1,0 +1,38 @@
+<Trader> Бармен
+    <Category> Пища
+		CaninaBerry,			*,		-1,		1
+	<Category> Препараты первой помощи
+		CaninaBerry,			*,		-1,		1
+	<Category> Походное снаряжение
+    	CaninaBerry,			*,		-1,		1
+	<Category> Артефакты зоны
+    	CaninaBerry,			*,		-1,		1
+    <Category> Контейнеры для артефактов
+    	CaninaBerry,			*,		-1,		1
+    <Category> Куртки
+    	CaninaBerry,			*,		-1,		1
+    <Category> Штаны
+    	CaninaBerry,			*,		-1,		1
+    <Category> Сталкерские комбенезоны
+    	CaninaBerry,			*,		-1,		1
+    <Category> Рюкзаки
+    	CaninaBerry,			*,		-1,		1
+    <Category> Ремни
+    	CaninaBerry,			*,		-1,		1
+    <Category> Обувь
+    	CaninaBerry,			*,		-1,		1
+    <Category> Перчатки
+    	CaninaBerry,			*,		-1,		1
+    <Category> Головные уборы
+        CaninaBerry,			*,		-1,		1
+    <Category> Противогазы
+        CaninaBerry,			*,		-1,		1
+    <Category> Оружие
+        CaninaBerry,			*,		-1,		1
+    <Category> Магазины
+        CaninaBerry,			*,		-1,		1
+    <Category> Патроны
+        CaninaBerry,			*,		-1,		1
+
+<OpenFile> 04_Saharov_Prices.txt
+<FileEnd>

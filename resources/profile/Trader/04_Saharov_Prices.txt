@@ -1,0 +1,85 @@
+<Trader> Профессор Сахаров
+	<Category> Медицинские препараты
+	    BandageDressing,                *,      1,      1
+        TetracyclineAntibiotics,        *,      1,      1
+        IodineTincture,                 *,      1,      1
+        SalineBag,                      *,      1,      1
+        StartKitIV,                     *,      1,      1
+        BloodBagEmpty,                  *,      1,      1
+        BloodTestKit,                   *,      1,      1
+		AMS_FirstAidKit,			    *,		1,		1
+		AMS_AntiSept,				    *,		1,		1
+		AMS_Polaris,				    *,		1,		1
+		AMS_Aspirin,				    *,		1,		1
+		AMS_Poter,					    *,		1,		1
+		AMS_Methadone,				    *,		1,		1
+		AMS_Tourniquet,				    *,		1,		1
+		AMS_Splint,					    *,		1,		1
+		AMS_Ai2,					    *,		1,		1
+		AMS_HeatPack,				    *,		1,		1
+		AMS_Vikasol,				    *,		1,		1
+		AMS_POX,					    *,		1,		1
+
+	<Category> Биологические образцы
+	    Mutant_AoD_Tushkano_Head,	    *,		-1,		1
+	    Mutant_AoD_Dog_Tail,		    *,		-1,		1
+	    Mutant_AoD_PDog_Tail,		    *,		-1,		1
+	    Mutant_AoD_Boar_Leg,		    *,		-1,		1
+	    Mutant_AoD_Cat_Leg, 		    *,		-1,		1
+	    Mutant_AoD_Snork_Leg, 		    *,		-1,		1
+	    Mutant_AoD_Fresh_Eye, 		    *,		-1,		1
+	    Mutant_AoD_RatWolf_Eye,		    *,		-1,		1
+	    Mutant_AoD_Poltergeist_Eye,	    *,		-1,		1
+	    Mutant_AoD_Zombi_Hand,		    *,		-1,		1
+	    Mutant_AoD_Izlom_Hand,		    *,		-1,		1
+	    Mutant_AoD_Burer_Hand,		    *,		-1,		1
+	    Mutant_AoD_Controller_Hand,	    *,		-1,		1
+	    Mutant_AoD_Pgigant_Hand,	    *,		-1,		1
+	    Mutant_AoD_Himera_Kogot,	    *,		-1,		1
+	    Mutant_AoD_Forester_Kogot,	    *,		-1,		1
+	    Mutant_AoD_Krovosos_Jaw,	    *,		-1,		1
+	    Mutant_AoD_Krovosos_C_Jaw,	    *,		-1,		1
+	    Mutant_AoD_Tark_Horn,		    *,		-1,		1
+
+	<Category> Аномальные образования
+		DZRP_Artefact_Blood,		    *,		-1,		1
+		DZRP_Artefact_MutadeCompass,	*,		-1,		1
+		DZRP_Artefact_Vyvert1,		    *,		-1,		1
+		DZRP_Artefact_Compas,		    *,		-1,		1
+		DZRP_Artefact_Cristall,		    *,		-1,		1
+		DZRP_Artefact_StoneFlower,	    *,		-1,		1
+		DZRP_Artefact_Oasis,		    *,		-1,		1
+		DZRP_Artefact_Battery,		    *,		-1,		1
+		DZRP_Artefact_Pusto,		    *,		-1,		1
+		DZRP_Artefact_MamaBus,		    *,		-1,		1
+		DZRP_Artefact_Flash,		    *,		-1,		1
+		DZRP_Artefact_MoonLight,	    *,		-1,		1
+		DZRP_Artefact_Sliz, 		    *,		-1,		1
+		DZRP_Artefact_Glaz, 		    *,		-1,		1
+		DZRP_Artefact_Fire, 		    *,		-1,		1
+		DZRP_Artefact_FireBall,		    *,		-1,		1
+		DZRP_Artefact_Kolobok,		    *,		-1,		1
+		DZRP_Artefact_GoldFish,		    *,		-1,		1
+		DZRP_Artefact_Gravi,		    *,		-1,		1
+		DZRP_Artefact_Ice,  		    *,		-1,		1
+		DZRP_Artefact_Medusa,		    *,		-1,		1
+		DZRP_Artefact_Meat, 		    *,		-1,		1
+		DZRP_Artefact_NightStar,	    *,		-1,		1
+		DZRP_Artefact_Soul,     	    *,		-1,		1
+
+	<Category> Контейнеры
+		dzrp_ArtefactCase_1,		    *,		1,		1
+		dzrp_ArtefactCase_2,		    *,		1,		1
+		dzrp_ArtefactCase_3,		    *,		1,		1
+		dzrp_ArtefactCase,			    *,		1,		1
+
+	<Category> Хим Защита
+    	NBCJacketGray,      		    *,		1,		1
+    	NBCPantsGray,        		    *,		1,		1
+    	NBCGlovesGray,      		    *,		1,		1
+    	NBCBootsGray,        		    *,		1,		1
+    	NBCHoodGray,          		    *,		1,		1
+    	AMS_NBCPouch,          		    *,		1,		1
+
+<OpenFile> 05_Dolg_Prices.txt
+<FileEnd>

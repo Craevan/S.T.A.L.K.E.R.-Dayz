@@ -1,0 +1,139 @@
+<Trader> Долг
+	<Category> Амуниция
+        SGE_Duty_Wind_Jacket_Dw,			*,		1,		1
+        SGE_Duty_Wind_Jacket,   			*,		1,		1
+        SGE_Duty_Wind_Pants,			    *,		1,		1
+        SGE_Duty_Wind_Vest, 			    *,		1,		1
+        SGE_Duty_Wind_Pouches_1,		    *,		1,		1
+        SGE_Duty_Wind_Pouches_2,		    *,		1,		1
+        SGE_Duty_BackPack,      			*,		1,		1
+        SGE_Military_Bulat_Belt,   			*,		1,		1
+        MilitaryBoots_Beige,      			*,		1,		1
+        MilitaryBoots_Black,      			*,		1,		1
+        MilitaryBoots_Brown,      			*,		1,		1
+        MilitaryBoots_Redpunk,     			*,		1,		1
+        MilitaryBoots_Bluerock,    			*,		1,		1
+
+    <Category> Оружие
+        air_weapon_knife_acb90,   			*,		1,		1
+        air_weapon_knife_ots,     			*,		1,		1
+        air_weapon_knife_shark,    			*,		1,		1
+        air_weapon_knife_tactical, 			*,		1,		1
+        air_weapon_aksu,         			*,		1,		1
+        air_weapon_ak74,         			*,		1,		1
+        air_weapon_akm,          			*,		1,		1
+        air_weapon_rpk,           			*,		1,		1
+        air_weapon_pkm,           			*,		1,		1
+        air_weapon_abakan,      			*,		1,		1
+        air_weapon_aek971,      			*,		1,		1
+        air_weapon_aek973,       			*,		1,		1
+        air_weapon_vihr,          			*,		1,		1
+        air_weapon_val,          			*,		1,		1
+        air_weapon_rmb_stocked,    			*,		1,		1
+        air_weapon_MP153,       			*,		1,		1
+        air_weapon_MP153_Black,    			*,		1,		1
+        air_weapon_svd,         			*,		1,		1
+        air_weapon_svd_wooden,     			*,		1,		1
+        Vepr12_AoD,                			*,		1,		1
+
+    <Category> Магазины
+        Mag_AK74_30Rnd,           			M,		1,		1
+        Mag_AK74_30Rnd_Black,      			M,		1,		1
+        Mag_AK74_30Rnd_Green,      			M,		1,		1
+        Mag_AKM_30Rnd,           			M,		1,		1
+        Mag_AKM_Palm30Rnd_Black,   			M,		1,		1
+        Mag_AKM_Palm30Rnd_Green,   			M,		1,		1
+        Mag_AK101_30Rnd_Black,   			M,		1,		1
+        Mag_AK101_30Rnd_Green,   			M,		1,		1
+        Mag_SVD_10Rnd,             			M,		1,		1
+        Mag_AoD_Vepr12_15Rnd,      			M,		1,		1
+        Mag_AoD_Vepr12_25Rnd,      			M,		1,		1
+        air_weapon_ak74_60_mag,    			M,		1,		1
+        air_weapon_mag_9a91,       			M,		1,		1
+        air_weapon_val_mag,        			M,		1,		1
+        air_weapon_Vihr_mag_30rnd, 			M,		1,		1
+        air_weapon_groza_mag,      			M,		1,		1
+        air_weapon_pkm_mag,      			M,		1,		1
+        air_weapon_svt_mag,      			M,		1,		1
+        air_weapon_mag_ash12,      			M,		1,		1
+
+    <Category> Модернизация оружия
+        air_weapon_ak74_hngrd,     			*,		1,		1
+        air_module_ak_RailHndgrd,  			*,		1,		1
+        air_module_ak_TacBttstck,  			*,		1,		1
+        air_module_ak_BttstcktoM4, 			*,		1,		1
+        air_module_pbs4,          			*,		1,		1
+        PBS1_AoD_Suppressor,      			*,		1,		1
+        Vepr12_AoD_Buttstock,      			*,		1,		1
+        Vepr12_AoD_Hndgrd,        			*,		1,		1
+        air_module_okp,          			*,		1,		1
+        air_module_pka,          			*,		1,		1
+
+    <Category> Патроны
+        AmmoBox_12gaSlug_10Rnd,             *,      1,      1
+        AmmoBox_00buck_10rnd,               *,      1,      1
+        AmmoBox_545x39_20Rnd,      			*,		1,		1
+        AmmoBox_545x39Tracer_20Rnd,			*,		1,		1
+        AmmoBox_762x39_20Rnd,               *,      1,      1
+        AmmoBox_762x39Tracer_20Rnd,         *,      1,      1
+        AmmoBox_762x54_20Rnd,               *,      1,      1
+        AmmoBox_762x54Tracer_20Rnd,         *,      1,      1
+
+    <Category> Еда
+        WaterBottle,                        *,      1,      1
+        SodaCan_Cola,                       *,      1,      1
+        SodaCan_Kvass,                      *,      1,      1
+        SaltySticks,                        *,      1,      1
+        Crackers,                           *,      1,      1
+        PorkCan,                            *,      1,      1
+
+    <Category> Походное снаряжение
+        Matchbox,                           *,      1,      1
+        Battery9V,                          *,      1,      1
+        Canteen,                            *,      1,      1
+        Headtorch_Black,                    *,      1,      1
+        Compass,                            *,      1,      1
+        Tripod,                             *,      1,      1
+        Pot,                                *,      1,      1
+        WeaponCleaningKit,                  *,      1,      1
+        LeatherSewingKit,                   *,      1,      1
+        SewingKit,                          *,      1,      1
+        Whetstone,                          *,      1,      1
+
+    <Category> Препараты первой помощи
+        BandageDressing,                    *,      1,      1
+        DisinfectantAlcohol,                *,      1,      1
+        CharcoalTablets,                    *,      1,      1
+        TetracyclineAntibiotics,            *,      1,      1
+        PainkillerTablets,                  *,      1,      1
+        PurificationTablets,                *,      1,      1
+        VitaminBottle,                      *,      1,      1
+        IodineTincture,                     *,      1,      1
+        SalineBag,                          *,      1,      1
+        StartKitIV,                         *,      1,      1
+        BloodBagEmpty,                      *,      1,      1
+        BloodTestKit,                       *,      1,      1
+
+    <Category> Части мутантов
+        Mutant_AoD_Tushkano_Head,	        *,		-1,		1
+        Mutant_AoD_Dog_Tail,		        *,		-1,		1
+        Mutant_AoD_PDog_Tail,		        *,		-1,		1
+        Mutant_AoD_Boar_Leg,		        *,		-1,		1
+        Mutant_AoD_Cat_Leg, 		        *,		-1,		1
+        Mutant_AoD_Snork_Leg, 		        *,		-1,		1
+        Mutant_AoD_Fresh_Eye, 		        *,		-1,		1
+        Mutant_AoD_RatWolf_Eye,		        *,		-1,		1
+        Mutant_AoD_Poltergeist_Eye,	        *,		-1,		1
+        Mutant_AoD_Zombi_Hand,		        *,		-1,		1
+        Mutant_AoD_Izlom_Hand,		        *,		-1,		1
+        Mutant_AoD_Burer_Hand,		        *,		-1,		1
+        Mutant_AoD_Controller_Hand,	        *,		-1,		1
+        Mutant_AoD_Pgigant_Hand,	        *,		-1,		1
+        Mutant_AoD_Himera_Kogot,	        *,		-1,		1
+        Mutant_AoD_Forester_Kogot,	        *,		-1,		1
+        Mutant_AoD_Krovosos_Jaw,	        *,		-1,		1
+        Mutant_AoD_Krovosos_C_Jaw,	        *,		-1,		1
+        Mutant_AoD_Tark_Horn,		        *,		-1,		1
+
+<OpenFile> 06_ClearSky_Suslov_Prices.txt
+<FileEnd>

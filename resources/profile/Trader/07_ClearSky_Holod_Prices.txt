@@ -1,0 +1,6 @@
+<Trader> Холод
+	<Category> Холод
+		CaninaBerry,			*,		-1,		1
+
+<OpenFile> 08_Svoboda_Ashot_Prices.txt
+<FileEnd>

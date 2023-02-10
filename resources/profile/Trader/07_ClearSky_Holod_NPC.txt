@@ -1,0 +1,9 @@
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			NPC_AoD_Holod
+<ObjectPosition>	1517.3,    81,     1414.8
+<ObjectOrientation>	-95,         0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<OpenFile> 08_Svoboda_Ashot_NPC.txt
+<FileEnd>

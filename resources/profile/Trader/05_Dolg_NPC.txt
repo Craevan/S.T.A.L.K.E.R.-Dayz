@@ -1,0 +1,9 @@
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			NPC_AoD_Voronin
+<ObjectPosition>	1697.8,    42.5,     4101.6
+<ObjectOrientation>	165,         0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<OpenFile> 06_ClearSky_Suslov_NPC.txt
+<FileEnd>

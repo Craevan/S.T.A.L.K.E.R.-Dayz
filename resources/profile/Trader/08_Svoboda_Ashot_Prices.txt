@@ -1,0 +1,104 @@
+<Trader> Ашот
+	<Category> Амуниция
+		SGE_Freedom_Wind_Jacket_Dw,			*,		1,		1
+		SGE_Freedom_Wind_Jacket,			*,		1,		1
+		SGE_Freedom_Wind_Pants,			    *,		1,		1
+		SGE_Freedom_Wind_Vest,			    *,		1,		1
+		SGE_Freedom_Wind_Pouches_1,		    *,		1,		1
+		SGE_Freedom_Wind_Pouches_2,		    *,		1,		1
+		SGE_Freedom_BackPack,    			*,		1,		1
+		NewSeva_AoD_Loner_Belt,    			*,		1,		1
+		JungleBoots_Beige,      			*,		1,		1
+		JungleBoots_Black,      			*,		1,		1
+		JungleBoots_Brown,      			*,		1,		1
+		JungleBoots_Olive,      			*,		1,		1
+		JungleBoots_Green,      			*,		1,		1
+
+	<Category> Оружие
+    	air_weapon_knife_boot,     			*,		1,		1
+    	air_weapon_knife_hunting,  			*,		1,		1
+    	air_weapon_knife_m9,     			*,		1,		1
+    	air_weapon_knife_boot,     			*,		1,		1
+    	air_weapon_ace21,       			*,		1,		1
+    	air_weapon_aug,            			*,		1,		1
+    	air_weapon_fn2000,       			*,		1,		1
+    	air_weapon_g36,            			*,		1,		1
+    	air_weapon_g36c,           			*,		1,		1
+    	air_weapon_g3,           			*,		1,		1
+    	air_weapon_lr300,       			*,		1,		1
+    	air_weapon_remington,      			*,		1,		1
+    	AOD_M1014,                 			*,		1,		1
+    	air_weapon_protecta,       			*,		1,		1
+    	air_weapon_sg556,       			*,		1,		1
+    	air_weapon_sg550,       			*,		1,		1
+    	air_weapon_psg,           			*,		1,		1
+
+    <Category> Магазины
+        Mag_CMAG_10Rnd_Black,      			M,		1,		1
+        Mag_CMAG_10Rnd_Green,      			M,		1,		1
+        Mag_CMAG_20Rnd_Black,      			M,		1,		1
+        Mag_CMAG_20Rnd_Green,      			M,		1,		1
+        Mag_CMAG_30Rnd_Black,      			M,		1,		1
+        Mag_CMAG_30Rnd_Green,      			M,		1,		1
+        Mag_CMAG_40Rnd_Black,      			M,		1,		1
+        Mag_CMAG_40Rnd_Green,      			M,		1,		1
+        Mag_STANAG_30Rnd,        			M,		1,		1
+        Mag_STANAGCoupled_30Rnd,   			M,		1,		1
+        Mag_STANAG_60Rnd,        			M,		1,		1
+        air_weapon_protecta_mag,   			M,		1,		1
+        air_weapon_g36_mag,        			M,		1,		1
+        air_weapon_g3_mag,        			M,		1,		1
+        air_weapon_sg550_mag,      			M,		1,		1
+        air_weapon_psg_mag,      			M,		1,		1
+
+    <Category> Модернизация оружия
+        air_module_psg_scope,      			*,		1,		1
+        air_module_308_suppressor,          *,		1,		1
+        NATO_AoD_Suppressor,      			*,		1,		1
+
+    <Category> Патроны
+        AmmoBox_12gaSlug_10Rnd,             *,      1,      1
+        AmmoBox_00buck_10rnd,               *,      1,      1
+        AmmoBox_556x45_20Rnd,      			*,		1,		1
+        AmmoBox_556x45Tracer_20Rnd,      			*,		1,		1
+        AmmoBox_308Win_20Rnd,               *,      1,      1
+        AmmoBox_308WinTracer_20Rnd,         *,      1,      1
+
+    <Category> Еда
+        WaterBottle,                        *,      1,      1
+        Vodka,                              *,      1,      1
+        SodaCan_Cola,                       *,      1,      1
+        SodaCan_Kvass,                      *,      1,      1
+        SaltySticks,                        *,      1,      1
+        Crackers,                           *,      1,      1
+        PorkCan,                            *,      1,      1
+
+    <Category> Походное снаряжение
+        Matchbox,                           *,      1,      1
+        Battery9V,                          *,      1,      1
+        Canteen,                            *,      1,      1
+        Flashlight,                         *,      1,      1
+        Compass,                            *,      1,      1
+        Tripod,                             *,      1,      1
+        Pot,                                *,      1,      1
+        WeaponCleaningKit,                  *,      1,      1
+        LeatherSewingKit,                   *,      1,      1
+        SewingKit,                          *,      1,      1
+        Whetstone,                          *,      1,      1
+
+    <Category> Препараты первой помощи
+    	BandageDressing,                    *,      1,      1
+    	DisinfectantAlcohol,                *,      1,      1
+    	CharcoalTablets,                    *,      1,      1
+    	TetracyclineAntibiotics,            *,      1,      1
+    	PainkillerTablets,                  *,      1,      1
+    	PurificationTablets,                *,      1,      1
+    	VitaminBottle,                      *,      1,      1
+    	IodineTincture,                     *,      1,      1
+    	SalineBag,                          *,      1,      1
+    	StartKitIV,                         *,      1,      1
+    	BloodBagEmpty,                      *,      1,      1
+    	BloodTestKit,                       *,      1,      1
+
+//<OpenFile>
+<FileEnd>

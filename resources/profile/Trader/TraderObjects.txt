@@ -1,0 +1,59 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+//Староста
+<TraderMarker> 			0
+<TraderMarkerPosition>	4619,   76.145, 1809
+<TraderMarkerSafezone>	0
+
+//Сидорович
+<TraderMarker> 			1
+<TraderMarkerPosition>	4545.7, 71.36,  1814.8
+<TraderMarkerSafezone>	10
+
+//Скряга
+<TraderMarker> 			2
+<TraderMarkerPosition>	4854.3, 92.2,   2375.1
+<TraderMarkerSafezone>	10
+
+//Бармен
+<TraderMarker> 			3
+<TraderMarkerPosition>	4866.8, 122,    6673
+<TraderMarkerSafezone>	10
+
+//Сахаров
+<TraderMarker> 			4
+<TraderMarkerPosition>	2454,   38.1,   6209.74
+<TraderMarkerSafezone>	10
+
+//Долг
+<TraderMarker> 			5
+<TraderMarkerPosition>	1697.8, 42.5,   4099.8
+<TraderMarkerSafezone>	10
+
+//Чистое Небо - Суслов
+<TraderMarker> 			6
+<TraderMarkerPosition>	1477.3, 80.34,  1373.7
+<TraderMarkerSafezone>	10
+
+//Чистое Небо - Холод
+<TraderMarker> 			7
+<TraderMarkerPosition>	1517.3, 81,     1414.8
+<TraderMarkerSafezone>	10
+
+//Свобода
+<TraderMarker> 			8
+<TraderMarkerPosition>	7734.2,    116.2,     4978.6
+<TraderMarkerSafezone>	10
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	4619,    76.145,     1809
+<ObjectOrientation>	-10,         0,			0
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	TelnyashkaShirt
+<ObjectAttachment>	OfficerHat
+<ObjectAttachment>	Toz66Hunter_AoD
+
+<OpenFile> 01_Sidorovich_NPC.txt
+<FileEnd>

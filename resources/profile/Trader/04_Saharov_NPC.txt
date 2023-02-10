@@ -1,0 +1,9 @@
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			NPC_AoD_Saharov
+<ObjectPosition>	2453.35,    38.1,     6209.74
+<ObjectOrientation>	85,         0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<OpenFile> 05_Dolg_NPC.txt
+<FileEnd>

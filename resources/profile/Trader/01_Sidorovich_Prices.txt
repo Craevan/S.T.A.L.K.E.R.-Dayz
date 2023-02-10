@@ -1,0 +1,115 @@
+<Trader> Сидорович
+	<Category> Хабар
+		PowerGenerator,		        *,		1,		1
+		CableReel,			        *,		1,		1
+		BatteryCharger,		        *,		1,		1
+		BaseRadio,			        *,		1,		1
+		Megaphone,			        *,		1,		1
+		Radio,			            *,		1,		1
+		TruckBattery,		        *,		1,		1
+		BrakeFluid,			        *,		1,		1
+		EngineOil,			        *,		1,		1
+		CarRadiator,		        *,		1,		1
+		HeadlightH7_Box,            *,		1,		1
+		HeadlightH7,		        *,		1,		1
+		SparkPlug,			        *,		1,		1
+		TireRepairKit,		        *,		1,		1
+		ElectronicRepairKit,	    *,		1,		1
+		CanisterGasoline,	        *,		1,		1
+		SmallGasCanister,	        *,		1,		1
+		MediumGasCanister,	        *,		1,		1
+		LargeGasCanister,	        *,		1,		1
+		PortableGasStove,	        *,		1,		1
+		PortableGasLamp,	        *,		1,		1
+		Rangefinder,		        *,		1,		1
+		Megaphone,  		        *,		1,		1
+		EpoxyPutty,	    	        *,		1,		1
+		Binoculars,			        *,		1,		1
+		CanOpener,			        *,		1,		1
+		Rope,   			        *,		1,		1
+	<Category> Пища
+    	WaterBottle,		        *,		1,		1
+    	SodaCan_Cola,		        *,		1,		1
+    	SodaCan_Kvass,		        *,		1,		1
+    	Chips,      		        *,		1,		1
+    	TunaCan,	    	        *,		1,		1
+    	SardinesCan,    	        *,		1,		1
+    	Rice,   	    	        *,		1,		1
+    	Pajka,   	    	        *,		1,		1
+	<Category> Препараты первой помощи
+	    BandageDressing,            *,      1,      1
+	    Heatpack,                   *,      1,      1
+	    DisinfectantAlcohol,        *,      1,      1
+	    CharcoalTablets,            *,      1,      1
+	    TetracyclineAntibiotics,    *,      1,      1
+	<Category> Походное снаряжение
+	    Matchbox,                   *,      1,      1
+	    Battery9V,                  *,      1,      1
+	    Canteen,                    *,      1,      1
+	    HuntingKnife,               *,      1,      1
+	    CanOpener,                  *,      1,      1
+	    PersonalRadio,              *,      1,      1
+	    Flashlight,                 *,      1,      1
+	    Compass,                    *,      1,      1
+	    Tripod,                     *,      1,      1
+	    Pot,                        *,      1,      1
+	    FishingRod,                 *,      1,      1
+	    WeaponCleaningKit,          *,      1,      1
+	    LeatherSewingKit,           *,      1,      1
+	    SewingKit,                  *,      1,      1
+	    Whetstone,                  *,      1,      1
+	<Category> Куртки
+	    TTsKOJacket_Camo,           *,      1,      1
+	    BDUJacket,                  *,      1,      1
+	<Category> Штаны
+    	CargoPants_Beige,           *,      1,      1
+    	CargoPants_Black,           *,      1,      1
+    	CargoPants_Blue,            *,      1,      1
+    	CargoPants_Green,           *,      1,      1
+    	CargoPants_Grey,            *,      1,      1
+    	TTSKOPants,                 *,      1,      1
+    	BDUPants,                   *,      1,      1
+    <Category> Перчатки
+        WorkingGloves_Beige,	    *,		1,		1
+        WorkingGloves_Black,	    *,		1,		1
+        WorkingGloves_Brown,	    *,		1,		1
+        WorkingGloves_Yellow,	    *,		1,		1
+        OMNOGloves_Brown,	        *,		1,		1
+        OMNOGloves_Gray,	        *,		1,		1
+    <Category> Головные уборы
+        RadarCap_Black,	            *,		1,		1
+        RadarCap_Blue,	            *,		1,		1
+        RadarCap_Brown,	            *,		1,		1
+        RadarCap_Green,	            *,		1,		1
+        RadarCap_Red,	            *,		1,		1
+        ZmijovkaCap_Black,	        *,		1,		1
+        ZmijovkaCap_Blue,	        *,		1,		1
+        ZmijovkaCap_Brown,	        *,		1,		1
+        ZmijovkaCap_Green,	        *,		1,		1
+        ZmijovkaCap_Red,	        *,		1,		1
+    <Category> Обувь
+        TTSKOBoots,     	        *,		1,		1
+        CombatBoots_Beige,	        *,		1,		1
+        CombatBoots_Black,	        *,		1,		1
+        CombatBoots_Brown,	        *,		1,		1
+        CombatBoots_Green,	        *,		1,		1
+        CombatBoots_Grey,	        *,		1,		1
+	<Category> Оружие
+    	Colt1911,                   w,      1,      1
+    	Engraved1911,               w,      1,      1
+    	SawedoffIzh43Shotgun,       w,      1,      1
+    	Izh43Shotgun,               w,      1,      1
+    	SawedoffMosin9130,          w,      1,      1
+    	SawedoffMosin9130_Black,    w,      1,      1
+    <Category> Магазины
+        Mag_1911_7Rnd,              M,      1,      1
+    <Category> Патроны
+        AmmoBox_12gaSlug_10Rnd,     *,      1,      1
+        AmmoBox_00buck_10rnd,       *,      1,      1
+        AmmoBox_45ACP_25rnd,        *,      1,      1
+        AmmoBox_9x19_25rnd,         *,      1,      1
+        AmmoBox_762x54_20Rnd,       *,      1,      1
+        AmmoBox_762x54Tracer_20Rnd, *,      1,      1
+
+<OpenFile> 02_Skrjaga_Prices.txt
+<FileEnd>

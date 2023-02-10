@@ -1,0 +1,9 @@
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			NPC_AoD_Barmen
+<ObjectPosition>	4866.8,    122,     6672
+<ObjectOrientation>	-8,         0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<OpenFile> 04_Saharov_NPC.txt
+<FileEnd>

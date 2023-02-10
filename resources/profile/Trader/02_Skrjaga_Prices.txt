@@ -1,0 +1,6 @@
+<Trader> Скряга
+	<Category> Скряга
+		CaninaBerry,			*,		-1,		1
+
+<OpenFile> 03_Barman_Prices.txt
+<FileEnd>

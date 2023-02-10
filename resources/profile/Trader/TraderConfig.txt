@@ -1,0 +1,49 @@
+<CurrencyName> #tm_ruble
+	<Currency> MoneyRuble1, 	1
+	<Currency> MoneyRuble5, 	5
+	<Currency> MoneyRuble10, 	10
+	<Currency> MoneyRuble25, 	25
+	<Currency> MoneyRuble50, 	50
+	<Currency> MoneyRuble100, 	100
+
+// Quantity * means max value;
+// Quantity V means Vehicle;
+// Quantity VNK means Vehicle without Key;
+// Quantity M means Magazine;
+// Quantity W means Weapon;
+// Quantity S means Steack Meat;
+// Quantity K means Key Duplication
+
+<Trader> Староста
+	<Category> Охота
+		GoatSteakMeat,		        S,		-1,		1
+		MouflonSteakMeat,           S,		-1,		1
+		BoarSteakMeat,		        S,		-1,		1
+		PigSteakMeat,		        S,		-1,		1
+		DeerSteakMeat,		        S,		-1,		1
+		WolfSteakMeat,		        S,		-1,		1
+		BearSteakMeat,		        S,		-1,		1
+		CowSteakMeat,		        S,		-1,		1
+		SheepSteakMeat,		        S,		-1,		1
+		FoxSteakMeat,		        S,		-1,		1
+		ChickenBreastMeat,          S,		-1,		1
+		RabbitLegMeat,              S,		-1,		1
+
+	<Category> Рыбалка
+    	MackerelFilletMeat,	        *,		-1,		1
+    	Bitterlings,    	        *,		-1,		1
+    	Carp,            	        *,		-1,		1
+    	Sardines,          	        *,		-1,		1
+    	Mackerel,          	        *,		-1,		1
+
+    <Category> Грибы и ягоды
+        CaninaBerry,	    	    *,		-1,		1
+        SambucusBerry,	    	    *,		-1,		1
+        BoletusMushroom,	    	*,		-1,		1
+        AuriculariaMushroom,	    *,		-1,		1
+        LactariusMushroom,	    	*,		-1,		1
+        AgaricusMushroom,	    	*,		-1,		1
+        PleurotusMushroom,	    	*,		-1,		1
+
+<OpenFile> 01_Sidorovich_Prices.txt
+<FileEnd>

@@ -1,0 +1,6 @@
+<Trader> Суслов
+	<Category> Суслов
+		CaninaBerry,			*,		-1,		1
+
+<OpenFile> 07_ClearSky_Holod_Prices.txt
+<FileEnd>

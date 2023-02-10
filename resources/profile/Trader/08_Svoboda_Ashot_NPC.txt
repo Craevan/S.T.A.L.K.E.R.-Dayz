@@ -1,0 +1,9 @@
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			NPC_AoD_Ashot
+<ObjectPosition>	7734.2,    116.2,     4978.4
+<ObjectOrientation>	0,         0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+//<OpenFile>
+<FileEnd>

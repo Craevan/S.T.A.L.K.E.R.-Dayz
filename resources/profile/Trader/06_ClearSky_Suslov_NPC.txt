@@ -1,0 +1,9 @@
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+<Object> 			NPC_AoD_Suslov
+<ObjectPosition>	1477.3,    80.34,     1373.7
+<ObjectOrientation>	0,         0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<OpenFile> 07_ClearSky_Holod_NPC.txt
+<FileEnd>
