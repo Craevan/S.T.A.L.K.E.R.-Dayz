@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef> 
+    <event name="Loot" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWildBoar" />
+</eventposdef>
