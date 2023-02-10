@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<damage min="0.3" max="1.0" />
+	<type name="WZRP_ArmyBoec_Oficer">
+        <cargo preset="Oficer" />
+ </type>
+	<type name="WZRP_ArmyBoec_Baril">
+        <cargo preset="Baril" />
+ </type>
+	<type name="WZRP_ArmyBoec_Bulat">
+        <cargo preset="Bulat" />
+ </type>
+	<type name="WZRP_Polter_Standart">
+        <cargo preset="Polter" />
+ </type>
+	<type name="FS/WZRP_Polter_Invz">
+        <cargo preset="Polter_Invz" />
+ </type>
+	<type name="WZRP_Zombie_1">
+        <cargo preset="Zombie_1" />
+ </type>
+	<type name="WZRP_Zombie_2">
+        <cargo preset="Zombie_2" />
+ </type>
+	<type name="WZRP_Zombie_3">
+        <cargo preset="Zombie_3" />
+ </type>
+	<type name="WZRP_Zombie_4">
+        <cargo preset="Zombie_4" />
+ </type>
+	<type name="WZRP_Zombie_5">
+        <cargo preset="Zombie_5" />
+ </type>
+	<type name="WZRP_Zombie_6">
+        <cargo preset="Zombie_6" />
+ </type>
+	<type name="WZRP_Zombie_7">
+        <cargo preset="Zombie_7" />
+ </type>
+	<type name="WZRP_Zombie_8">
+        <cargo preset="Zombie_8" />
+ </type>
+	<type name="WZRP_Zombie_9">
+        <cargo preset="Zombie_9" />
+ </type>
+	<type name="WZRP_Zombie_10">
+        <cargo preset="Zombie_10" />
+ </type>
+	<type name="WZRP_Zombie_11">
+        <cargo preset="Zombie_11" />
+ </type>
+	<type name="WZRP_Zombie_12">
+        <cargo preset="Zombie_12" />
+ </type>
+	<type name="WZRP_Zombie_13">
+        <cargo preset="Zombie_13" />
+ </type>
+	<type name="WZRP_Zombie_14">
+        <cargo preset="Zombie_14" />
+ </type>
+	<type name="WZRP_Zombie_15">
+        <cargo preset="Zombie_15" />
+ </type>
+	<type name="WZRP_ZMB_Stalker">
+        <cargo preset="ZMB_Stalker" />
+ </type>
+	<type name="WZRP_ZMB_Stalker_Top">
+        <cargo preset="ZMB_Stalker_Top" />
+ </type>
+	<type name="WZRP_ZMB_Stalker_TopGas">
+        <cargo preset="ZMB_Stalker_TopGas" />
+ </type>
+	<type name="WZRP_ZMB_Stalker_Ruined">
+        <cargo preset="ZMB_Stalker_Ruined" />
+ </type>
+	<type name="WZRP_ZMB_Stalker_KrovoSOS50">
+        <cargo preset="ZMB_Stalker_KrovoSOS50" />
+ </type>
+	<type name="WZRP_ZMB_Stalker_KrovoSOS80">
+        <cargo preset="ZMB_Stalker_KrovoSOS80" />
+ </type>
+	<type name="WZRP_RuinedZMB">
+        <cargo preset="RuinedZMB" />
+ </type>
+	<type name="WZRP_MONOLIT_ZMB">
+        <cargo preset="MONOLIT_ZMB" />
+ </type>
+	<type name="WZRP_ZombieType2">
+        <cargo preset="ZombieType2" />
+ </type>
+    <type name="WZRP_ZombieType2_noTkan">
+        <cargo preset="ZombieType2_noTkan" />
+ </type>
+	<type name="WZRP_Kontroler">
+        <cargo preset="Kontroler" />
+ </type>
+	<type name="WZRP_Kontroler_2">
+        <cargo preset="Kontroler_2" />
+ </type>
+	<type name="WZRP_Snork">
+        <cargo preset="Snork" />
+ </type>
+	<type name="WZRP_Snork_Boss">
+        <cargo preset="Snork_Boss" />
+ </type>
+	<type name="WZRP_KrovoSOS">
+        <cargo preset="KrovoSOS" />
+ </type>
+	<type name="WZRP_KrovoSOS_invisible">
+        <cargo preset="KrovoSOS_invisible" />
+ </type>
+	<type name="WZRP_KrovoSOS_Dark">
+        <cargo preset="KrovoSOS_Dark" />
+ </type>
+	<type name="WZRP_KrovoSOS_Blood">
+        <cargo preset="KrovoSOS_Blood" />
+ </type>
+	<type name="WZRP_KrovoSOS_BolotTvar">
+        <cargo preset="KrovoSOS_BolotTvar" />
+ </type>
+	<type name="WZRP_KrovososType2_Volkodav">
+        <cargo preset="KrovososType2_Volkodav" />
+ </type>
+	<type name="WZRP_KrovososType2_Volkodav_Ser">
+        <cargo preset="KrovososType2_Volkodav_Ser" />
+ </type>
+	<type name="WZRP_EXO_ZMB_pristine_bandit">
+        <cargo preset="pristine_bandit" />
+ </type>
+	<type name="WZRP_EXO_ZMB_pristine_dolg">
+        <cargo preset="pristine_dolg" />
+ </type>
+	<type name="WZRP_EXO_ZMB_pristine_Svoboda">
+        <cargo preset="pristine_Svoboda" />
+ </type>
+	<type name="WZRP_EXO_ZMB_pristine_Monolit">
+        <cargo preset="pristine_Monolit" />
+ </type>
+	<type name="WZRP_EXO_ZMB_pristine_specnaz">
+        <cargo preset="pristine_specnaz" />
+ </type>
+	<type name="WZRP_EXO_ZMB_pristine_tank">
+        <cargo preset="pristine_tank" />
+ </type>
+	<type name="WZRP_EXO_ZMB_damaged_bandit">
+        <cargo preset="damaged_bandit" />
+ </type>
+	<type name="WZRP_EXO_ZMB_damaged_dolg">
+        <cargo preset="damaged_dolg" />
+ </type>
+	<type name="WZRP_EXO_ZMB_damaged_Svoboda">
+        <cargo preset="damaged_Svoboda" />
+ </type>
+	<type name="WZRP_EXO_ZMB_damaged_Monolit">
+        <cargo preset="damaged_Monolit" />
+ </type>
+	<type name="WZRP_EXO_ZMB_damaged_specnaz">
+        <cargo preset="damaged_specnaz" />
+ </type>
+	<type name="WZRP_EXO_ZMB_damaged_tank">
+        <cargo preset="damaged_tank" />
+ </type>
+	<type name="WZRP_EXO_ZMB_Ruined_bandit">
+        <cargo preset="Ruined_bandit" />
+ </type>
+	<type name="WZRP_EXO_ZMB_Ruined_dolg">
+        <cargo preset="Ruined_dolg" />
+ </type>
+	<type name="WZRP_EXO_ZMB_Ruined_Svoboda">
+        <cargo preset="Ruined_Svoboda" />
+ </type>
+	<type name="WZRP_EXO_ZMB_Ruined_Monolit">
+        <cargo preset="Ruined_Monolit" />
+ </type>
+	<type name="FS/WZRP_EXO_ZMB_Ruined_specnaz">
+        <cargo preset="Ruined_specnaz" />
+ </type>
+	<type name="WZRP_EXO_ZMB_Ruined_tank">
+        <cargo preset="Ruined_tank" />
+ </type>
+	<type name="WZRP_Izlome">
+        <cargo preset="Izlome" />
+ </type>
+</spawnabletypes>
