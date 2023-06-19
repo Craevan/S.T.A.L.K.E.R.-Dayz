@@ -1,0 +1,1 @@
+Add admins steamID64 (visible in steam player profile http link). One by line.
