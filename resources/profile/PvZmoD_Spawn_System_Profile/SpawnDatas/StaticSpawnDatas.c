@@ -34,25 +34,25 @@ ref autoptr TFloatArray data_HordeStatic130 = { 130,		5,		15,				100,	5012,		0,	
 ref autoptr TFloatArray data_HordeStatic131 = { 131,		1,		1,				50,		4629,		0,		4199,		0,		0,			0,			50,			072,					0,				0,				0,				0,				-30,				100 }; 		// Not_used_yet
 
 /// 131 => 162 : Churches (inside code, can't modify) 
-
-ref autoptr TFloatArray data_HordeStatic163 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic164 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic165 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic166 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic167 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic168 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic169 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic170 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
+// STATIC SPAWN DATA //	NotUsedYet			// NUMCONFIG   NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet
+ref autoptr TFloatArray data_HordeStatic163 = { 163,		1,		2,				50,		2871,		0,		2859,		0,		0,			0,			100,		101,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic164 = { 164,		2,		4,				50,		2268,		0,		3283,		0,		0,			0,			100,		060,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic165 = { 165,		3,		6,				50,		2119,		0,		3886,		0,		0,			0,			100,		020,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic166 = { 166,		3,		6,				50,		2619,		0,		3987,		0,		0,			0,			100,		030,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic167 = { 167,		3,		7,				50,		3050,		0,		3800,		0,		0,			0,			100,		040,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic168 = { 168,		5,		15,				100,	3515,		0,		4101,		0,		0,			0,			100,		010,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic169 = { 169,		1,		2,				50,		3448,		0,		4115,		0,		0,			0,			50,			070,					0,				0,				0,				0,				-30,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic170 = { 170,		2,		7,				100,	4165,		0,		3222,		0,		0,			0,			100,		020,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
 // STATIC SPAWN DATA //	NotUsedYet			// NUMCONFIG   NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet	//
-ref autoptr TFloatArray data_HordeStatic171 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic172 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic173 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic174 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic175 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic176 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic177 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic178 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
-ref autoptr TFloatArray data_HordeStatic179 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic171 = { 171,		3,		6,				100,	1534,		0,		3765,		0,		0,			0,			100,		040,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic172 = { 172,		2,		5,				100,	1540,		0,		4538,		0,		0,			0,			100,		030,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic173 = { 173,	    3,		5,				100,	1847,		0,		4608,		0,		0,			0,			100,		050,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic174 = { 174,		2,		3,				100,	2238,		0,		4837,		0,		0,			0,			100,		101,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic175 = { 175,		3,		6,				100,	2197,		0,		4801,		0,		0,			0,			100,		001,                    0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic176 = { 176,		3,		6,				100,	3005,		0,		4763,		0,		0,			0,			100,		050,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic177 = { 177,		2,		4,				100,	3900,		0,		4863,		0,		0,			0,			100,		060,                    0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic178 = { 178,		3,		5,				100,	4264,		0,		4569,		0,		0,			0,			100,		040,					0,				0,				0,				0,				-20,				100 }; 		// Not_used_yet
+ref autoptr TFloatArray data_HordeStatic179 = { 179,		0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
 ref autoptr TFloatArray data_HordeStatic180 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
 ref autoptr TFloatArray data_HordeStatic181 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
 ref autoptr TFloatArray data_HordeStatic182 = { 0,			0,		0,				0,		0,			0,		0,			0,		0,			0,			0,			0,						0,				0,				0,				0,				0,				100 }; 		// Not_used_yet
