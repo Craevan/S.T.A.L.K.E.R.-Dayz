@@ -198,6 +198,17 @@ ref autoptr TStringArray Stalker_Zmb_Monolith = {
 	"Zombi_AoD_Monolith_Zorya",
 };
 
+ref autoptr TStringArray Stalker_Zmb_All = {    //Only for yantar lake
+        "Zombi_AoD_Loner_Zorya",
+        "Zombi_AoD_Novice1",
+        "Zombi_AoD_Novice2",
+        "Zombi_AoD_Duty_Zorya",
+        "Zombi_AoD_Freedom_Zorya",
+        "Zombi_AoD_Civ_Trup1",
+        "Zombi_AoD_Civ_Trup2",
+
+};
+
 // Dayz Zombie
 ref autoptr TStringArray Dayz_Zmb = {
 	"ZmbM_usSoldier_normal_Woodland",
