@@ -1,29 +1,29 @@
 ///  									NUMCONFIG	TIMEmini     TIMEmaxi	NBRmini		NBRmaxi		DISTANCE	AREA RADIUS 	Lateral SHIFT 	numChooseZombiesCategorie  
 ref autoptr TIntArray data_Suspended =		{ 0,		100,		100,		0,			30 ,		2,			30,				0,					1 };			// 0 Suspended (don't modify this line)   
 
-ref autoptr TIntArray data_CountrySide =	{ 1,		300,		600,		15,			25,			400,		10,				50,					30 };			// 1 DEFAULT (Countryside)
+ref autoptr TIntArray data_CountrySide =	{ 0,		300,		600,		15,			25,			400,		10,				50,					0 };			// 1 DEFAULT (Countryside)
 
-ref autoptr TIntArray data_SmallTwon =		{ 10,		10,			15,			2,			5,			100,		3,				30,					10 };			// 10 SmallTwon
-ref autoptr TIntArray data_AverageTown =	{ 20,		10,			15,			3,			7,			100,		5,				30,					20 };			// 20 AverageTown
-ref autoptr TIntArray data_BigTown =		{ 30,		10,			15,			5,			9,			100,		10,				30,					30 };			// 30 BigTown
-ref autoptr TIntArray data_Building =		{ 40,		20,			20,			5,			7,			100,		10,				30,					40 };			// 40 Building
-ref autoptr TIntArray data_Industial =		{ 50,		10,			15,			3,			4,			100,		5,				30,					50 };			// 50 Industial
-ref autoptr TIntArray data_Military =		{ 60,		10,			15,			3,			6,			80,			5,				30,					60 };			// 60 Military 	(always focus)
-ref autoptr TIntArray data_Fog =			{ 70,		0,			0,			0,			0,			0,			0,				0,					70 };			// 70 
-ref autoptr TIntArray data_Prison =			{ 71,		5,			7,			3,			7,			60,			3,				30,					71 };			// 71 Prison 	(always focus)
-ref autoptr TIntArray data_Marines =		{ 72,		0,			0,			0,			0,			0,			0,				0,					72 };			// 72 
-ref autoptr TIntArray data_Bridge =			{ 73,		0,			0,			0,			0,			0,			0,				0,					73 };			// 73 
-ref autoptr TIntArray data_Config90 =		{ 90,		10,			10,			1,			1,			600,		200,			200,				90 };			// 90 Hunters aroud castles (very long distance)
+ref autoptr TIntArray data_SmallTwon =		{ 0,		10,			15,			2,			5,			100,		3,				30,					0 };			// 10 SmallTwon
+ref autoptr TIntArray data_AverageTown =	{ 0,		10,			15,			3,			7,			100,		5,				30,					0 };			// 20 AverageTown
+ref autoptr TIntArray data_BigTown =		{ 0,		10,			15,			5,			9,			100,		10,				30,					0 };			// 30 BigTown
+ref autoptr TIntArray data_Building =		{ 0,		20,			20,			5,			7,			100,		10,				30,					0 };			// 40 Building
+ref autoptr TIntArray data_Industial =		{ 0,		10,			15,			3,			4,			100,		5,				30,					0 };			// 50 Industial
+ref autoptr TIntArray data_Military =		{ 0,		10,			15,			3,			6,			80,			5,				30,					0 };			// 60 Military 	(always focus)
+ref autoptr TIntArray data_Fog =			{ 0,		0,			0,			0,			0,			0,			0,				0,					0 };			// 70
+ref autoptr TIntArray data_Prison =			{ 0,		5,			7,			3,			7,			60,			3,				30,					0 };			// 71 Prison 	(always focus)
+ref autoptr TIntArray data_Marines =		{ 0,		0,			0,			0,			0,			0,			0,				0,					0 };			// 72
+ref autoptr TIntArray data_Bridge =			{ 0,		0,			0,			0,			0,			0,			0,				0,					0 };			// 73
+ref autoptr TIntArray data_Config90 =		{ 0,		10,			10,			1,			1,			600,		200,			200,				0 };			// 90 Hunters aroud castles (very long distance)
 
 /// Here you can configure your personnal dynamic spawn types
-ref autoptr TIntArray data_Config91 =		{ 91,		0,			0,			0,			0,			0,			0,				0,					0 };			// 91 
-ref autoptr TIntArray data_Config92 =		{ 92,		0,			0,			0,			0,			0,			0,				0,					0 };			// 92 
-ref autoptr TIntArray data_Config93 =		{ 93,		0,			0,			0,			0,			0,			0,				0,					0 };			// 93 
-ref autoptr TIntArray data_Config94 =		{ 94,		0,			0,			0,			0,			0,			0,				0,					0 };			// 94 
-ref autoptr TIntArray data_Config95 =		{ 95,		0,			0,			0,			0,			0,			0,				0,					0 };			// 95 
-ref autoptr TIntArray data_Config96 =		{ 96,		0,			0,			0,			0,			0,			0,				0,					0 };			// 96 
-ref autoptr TIntArray data_Config97 =		{ 97,		0,			0,			0,			0,			0,			0,				0,					0 };			// 97 
-ref autoptr TIntArray data_Config98 =		{ 98,		0,			0,			0,			0,			0,			0,				0,					0 };			// 98 
+ref autoptr TIntArray data_Config91 =		{ 91,		120,		600,		2,			5,			70,			10,				50,					050 };			// Dog
+ref autoptr TIntArray data_Config92 =		{ 92,		120,		600,		2,			5,			70,			10,				50,					030 };			// Cat
+ref autoptr TIntArray data_Config93 =		{ 93,		120,		600,		2,			5,			70,			10,				50,					020 };			// Boar
+ref autoptr TIntArray data_Config94 =		{ 94,		120,		600,		2,			5,			70,			10,				50,					040 };			// Fresh
+ref autoptr TIntArray data_Config95 =		{ 95,		120,		600,		2,			5,			70,			10,				50,					060 };			// PseDog
+ref autoptr TIntArray data_Config96 =		{ 96,		120,		600,		2,			5,			70,			10,				50,					105 };			// RatWolf
+ref autoptr TIntArray data_Config97 =		{ 97,		120,		600,		3,			6,			70,			10,				50,					103 };			// Snork
+ref autoptr TIntArray data_Config98 =		{ 98,		240,		600,		1,			2,			80,			20,				50,					101 };			// 98
 
 ref autoptr TIntArray data_Config99 =		{ 99,		7,			10,			2,			3,			80,			10,				40,					99 };			// 99 Toxic zones (always focus)
 

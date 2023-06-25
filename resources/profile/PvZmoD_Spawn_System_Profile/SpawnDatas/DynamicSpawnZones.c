@@ -2,33 +2,36 @@
 
 /// LOOK AT THE END OF THE FILE FOR MORE HELP !
 /// DYNAMIC SPAWN 		 : 			NUM CONFIG / COORDX-upleft / COORDZ-upleft / COORDX-lowerright / COORDZ-lowerright / QUANTITY RATIO / TOTAL MAX ZEDS NUMBER 
-ref autoptr TIntArray data_Zone001 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone002 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone003 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone004 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone005 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone006 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone007 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone008 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone009 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone010 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone011 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone012 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone013 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone014 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone015 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone016 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone017 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone018 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone019 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone020 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone021 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone022 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone023 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone024 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone025 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone026 = {0,			0,				0,				0,					0,					100,			100}; 		// 
-ref autoptr TIntArray data_Zone027 = {0,			0,				0,				0,					0,					100,			100}; 		// 
+
+//BOLOTA
+ref autoptr TIntArray data_Zone001 = {95,			1406,			2377,			2343,				1529,					100,			100}; 		//
+
+ref autoptr TIntArray data_Zone002 = {92,			5041,			2433,			9391,				1025,	    			100,			100}; 		//
+ref autoptr TIntArray data_Zone003 = {91,			2040,			3444,			2940,				2535,		    		100,			100}; 		//
+ref autoptr TIntArray data_Zone004 = {91,			3037,			2914,			3975,				2226,					100,			100}; 		//
+ref autoptr TIntArray data_Zone005 = {91,			4013,			3444,			4989,				2524,					100,			100}; 		//
+ref autoptr TIntArray data_Zone006 = {93,			6038,			3433,			9166,				2508,					100,			100}; 		//
+ref autoptr TIntArray data_Zone007 = {93,			2050,			4452,			2966,				3521,					100,			100}; 		//
+ref autoptr TIntArray data_Zone008 = {93,			4015,			4455,			4959,				3537,					100,			100}; 		//
+ref autoptr TIntArray data_Zone009 = {94,			5028,			4438,			5973,				3514,					100,			100}; 		//
+ref autoptr TIntArray data_Zone010 = {94,			2045,			5395,			2939,				4538,					100,			100}; 		//
+ref autoptr TIntArray data_Zone011 = {94,			3039,			5409,			4385,				4499,					100,			100}; 		//
+ref autoptr TIntArray data_Zone012 = {92,			3024,			6426,			3921,				5694,					100,			100}; 		//
+ref autoptr TIntArray data_Zone013 = {92,			4070,			6329,			5826,				5524,					100,			100}; 		//
+ref autoptr TIntArray data_Zone014 = {97,			7028,			6426,			7986,				5563,					100,			100}; 		//
+ref autoptr TIntArray data_Zone015 = {97,			2058,			7425,			2952,				6546,					100,			100}; 		//
+ref autoptr TIntArray data_Zone016 = {91,			5239,			6966,			5958,				6575,					100,			100}; 		//
+ref autoptr TIntArray data_Zone017 = {93,			6081,			6925,			6970,				6520,					100,			100}; 		//
+ref autoptr TIntArray data_Zone018 = {97,			7038,			7445,			7956,				6532,					100,			100}; 		//
+ref autoptr TIntArray data_Zone019 = {97,			2072,			8455,			2962,				7540,					100,			100}; 		//
+ref autoptr TIntArray data_Zone020 = {95,			3033,			8446,			3972,				7927,					100,			100}; 		//
+ref autoptr TIntArray data_Zone021 = {95,			4055,			8416,			4950,				7531,					100,			100}; 		//
+ref autoptr TIntArray data_Zone022 = {96,			2057,			9408,			2981,				8512,					100,			100}; 		//
+ref autoptr TIntArray data_Zone023 = {95,			3024,			9430,			3980,				8503,					100,			100}; 		//
+ref autoptr TIntArray data_Zone024 = {95,			4042,			9436,			4969,				8521,					100,			100}; 		//
+ref autoptr TIntArray data_Zone025 = {97,			5055,			9418,			6930,				8515,					100,			100}; 		//
+ref autoptr TIntArray data_Zone026 = {93,			2444,			10450,			3934,				9525,					100,			100}; 		//
+ref autoptr TIntArray data_Zone027 = {98,			1579,			11559,			2954,				10513,					100,			100}; 		//
 ref autoptr TIntArray data_Zone028 = {0,			0,				0,				0,					0,					100,			100}; 		// 
 ref autoptr TIntArray data_Zone029 = {0,			0,				0,				0,					0,					100,			100}; 		// 
 ref autoptr TIntArray data_Zone030 = {0,			0,				0,				0,					0,					100,			100}; 		// 
