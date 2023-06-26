@@ -1,0 +1,24 @@
+{
+    "ConfigVersion": 4,
+    "ID": 1,
+    "ClassName": "ExpansionQuestNPCDenis",
+    "IsAI": 0,
+    "Position": [
+        4600.0,
+        76.0,
+        1811.0
+    ],
+    "Orientation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Peter",
+    "DefaultNPCText": "Hmm?",
+    "NPCLoadoutFile": "NBCLoadout",
+    "IsStatic": 0,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39
+}

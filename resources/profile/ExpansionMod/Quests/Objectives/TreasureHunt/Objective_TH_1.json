@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the location of the treasure",
+    "TimeLimit": -1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [],
+    "Loot": [],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0
+}
