@@ -1,21 +1,21 @@
 {
     "ConfigVersion": 4,
     "ID": 1,
-    "ClassName": "ExpansionQuestNPCDenis",
+    "ClassName": "ExpansionQuestNPCRolf",
     "IsAI": 0,
     "Position": [
-        4600.0,
-        76.0,
-        1811.0
+        4624.5,
+        76.2,
+        1821.2
     ],
     "Orientation": [
-        0.0,
+        -95.0,
         0.0,
         0.0
     ],
-    "NPCName": "Peter",
+    "NPCName": "Фанат",
     "DefaultNPCText": "Hmm?",
-    "NPCLoadoutFile": "NBCLoadout",
+    "NPCLoadoutFile": "LonerLoadout",
     "IsStatic": 0,
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
