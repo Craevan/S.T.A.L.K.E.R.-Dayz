@@ -1,7 +1,7 @@
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
 
 <Object> 			NPC_AoD_Sidorovich
-<ObjectPosition>	4545.7,    71.36,     1814.8
+<ObjectPosition>	4545.7,    71.36,     1812.8
 <ObjectOrientation>	-95,         0,			0
 <ObjectAttachment>	NPC_DUMMY
 

@@ -6,7 +6,7 @@
 
 //Сидорович
 <TraderMarker> 			1
-<TraderMarkerPosition>	4545.7, 71.36,  1814.8
+<TraderMarkerPosition>	4545.7, 71.36,  1812.8
 <TraderMarkerSafezone>	10
 
 //Скряга
