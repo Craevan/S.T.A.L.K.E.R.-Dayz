@@ -59,8 +59,8 @@
 	    SewingKit,                  *,      1,      1
 	    Whetstone,                  *,      1,      1
 	<Category> Куртки
-	    TTsKOJacket_Camo,           *,      1,      1
-	    BDUJacket,                  *,      1,      1
+	    SGE_Loner_Beginner_Jacket,        *,      1,      1
+	    SGE_Loner_Beginner_Jacket_Camo,   *,      1,      1
 	<Category> Штаны
     	CargoPants_Beige,           *,      1,      1
     	CargoPants_Black,           *,      1,      1
