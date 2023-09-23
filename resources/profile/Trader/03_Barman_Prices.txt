@@ -1,36 +1,91 @@
 <Trader> Бармен
     <Category> Пища
 		CaninaBerry,			*,		-1,		1
+
 	<Category> Препараты первой помощи
 		CaninaBerry,			*,		-1,		1
+
 	<Category> Походное снаряжение
     	CaninaBerry,			*,		-1,		1
+
 	<Category> Артефакты зоны
     	CaninaBerry,			*,		-1,		1
+
     <Category> Контейнеры для артефактов
-    	CaninaBerry,			*,		-1,		1
-    <Category> Куртки
-    	CaninaBerry,			*,		-1,		1
-    <Category> Штаны
-    	CaninaBerry,			*,		-1,		1
-    <Category> Сталкерские комбенезоны
-    	CaninaBerry,			*,		-1,		1
+    	SGE_Art_Container_Crude,			*,		-1,		1
+
+    <Category> Заря
+        SGE_Stalker_Sunrise_Jacket,			*,		-1,		1
+        SGE_Stalker_Sunrise_Pants,			*,		-1,		1
+        SGE_Stalker_Sunrise_Vest,			*,		-1,		1
+        SGE_Stalker_Sunrise_Pouches,		*,		-1,		1
+        SGE_Stalker_Sunrise_Belt,			*,		-1,		1
+        SGE_Stalker_Sunrise_Belt_Pouches,	*,		-1,		1
+        SGE_Stalker_Belt_Cont,      	    *,		-1,		1
+        SGE_Loner_Med_Pouch,	            *,		-1,		1
+
+        SGE_Stalker_Sunrise_Jacket_2,		*,		-1,		1
+        SGE_Stalker_Sunrise_Pants_2,		*,		-1,		1
+        SGE_Stalker_Sunrise_Vest_2,			*,		-1,		1
+        SGE_Stalker_Sunrise_Pouches_2,		*,		-1,		1
+
+        SGE_Stalker_Sunrise_Jacket_3,		*,		-1,		1
+        SGE_Stalker_Sunrise_Pants_3,		*,		-1,		1
+        SGE_Stalker_Sunrise_Vest_3,			*,		-1,		1
+        SGE_Stalker_Sunrise_Pouches_3,		*,		-1,		1
+
+        SGE_Stalker_Sunrise_Jacket_4,		*,		-1,		1
+        SGE_Stalker_Sunrise_Pants_4,		*,		-1,		1
+        SGE_Stalker_Sunrise_Vest_4,			*,		-1,		1
+        SGE_Stalker_Sunrise_Pouches_4,		*,		-1,		1
+
+    <Category> Сева
+    	SGE_Stalker_Seva_Jacket,			*,		-1,		1
+    	SGE_Stalker_Seva_Pants, 			*,		-1,		1
+    	SGE_Stalker_Seva_Vest,	    		*,		-1,		1
+    	SGE_Stalker_Seva_BackPack,			*,		-1,		1
+    	SGE_Stalker_Seva_Cape,		    	*,		-1,		1
+    	SGE_Stalker_Sevas_Glass,   			*,		-1,		1
+        SGE_Stalker_Sevas_Glass_Mate,		*,		-1,		1
+        SGE_Stalker_Seva_Belt,      		*,		-1,		1
+
+    <Category> ТБ
+        SGE_Loner_HeavyArmor_Jacket,		*,		1,		1
+        SGE_Loner_HeavyArmor_Pants,     	*,		1,		1
+        SGE_Loner_HeavyArmor_Vest,		   	*,		1,		1
+        SGE_Stalker_Sunrise_Pouches,	   	*,		1,		1
+        SGE_Loner_HeavyArmor_Belt,		   	*,		1,		1
+        SGE_Loner_HeavyArmor_Helmet,		*,		1,		1
+        SGE_Loner_HeavyArmor_Balaclava,		*,		1,		1
+        SGE_Loner_Patch_Helmet,      		*,		1,		1
+
+    <Category> Амуниция
+        SGE_Stalker_Patch,       			*,		-1,		1
+
     <Category> Рюкзаки
     	CaninaBerry,			*,		-1,		1
+
     <Category> Ремни
     	CaninaBerry,			*,		-1,		1
+
     <Category> Обувь
     	CaninaBerry,			*,		-1,		1
+
     <Category> Перчатки
     	CaninaBerry,			*,		-1,		1
+
     <Category> Головные уборы
         CaninaBerry,			*,		-1,		1
+
     <Category> Противогазы
         CaninaBerry,			*,		-1,		1
+
     <Category> Оружие
         CaninaBerry,			*,		-1,		1
+
     <Category> Магазины
         CaninaBerry,			*,		-1,		1
+
     <Category> Патроны
         CaninaBerry,			*,		-1,		1
 
