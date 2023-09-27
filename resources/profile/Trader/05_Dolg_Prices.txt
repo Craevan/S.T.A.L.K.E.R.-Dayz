@@ -12,7 +12,9 @@
         SGE_Duty_HeavyArmor_Vest,			*,		1,		1
         SGE_Duty_Sunrise_Pouches,			*,		1,		1
         SGE_Duty_HeavyArmor_Helmet,			*,		1,		1
+        SGE_Loner_HeavyArmor_Balaclava,		*,		1,		1
         SGE_Loner_HeavyArmor_Belt,		   	*,		1,		1
+        SGE_Loner_HeavyArmor_GasMask,	   	*,		1,		1
 
     <Category> Сева
         SGE_Duty_Seva_Jacket,      			*,		1,		1
@@ -34,6 +36,7 @@
         SGE_Bulat_Balaclava_Black,          *,		1,		1
         SGE_Military_Bulat_Resp,   			*,		1,		1
         SGE_Military_Bulat_Belt,   			*,		1,		1
+        SGE_Military_Bulat_Flashlight,	    *,		1,		1
 
 	<Category> Амуниция
         SGE_Duty_BackPack,      			*,		1,		1
