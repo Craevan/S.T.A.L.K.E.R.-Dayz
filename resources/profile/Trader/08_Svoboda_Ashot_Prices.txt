@@ -1,14 +1,61 @@
 <Trader> Ашот
+    <Category> Заря
+        SGE_Freedom_MK2_Jacket,   			*,		1,		1
+        SGE_Freedom_MK2_Pants,			    *,		1,		1
+
+    <Category> Ветер Свободы
+        SGE_Freedom_Wind_Jacket,   			*,		1,		1
+        SGE_Freedom_Wind_Pants,			    *,		1,		1
+        SGE_Freedom_Wind_Vest, 			    *,		1,		1
+        SGE_Freedom_Wind_Pouches_1,		    *,		1,		1
+        SGE_Freedom_Wind_Pouches_2,		    *,		1,		1
+
+    <Category> Страж Свободы
+        SGE_Freedom_Guard_Jacket,   		*,		1,		1
+        SGE_Freedom_Guard_Pants,		    *,		1,		1
+        SGE_Freedom_Guard_BeltRig,		    *,		1,		1
+        SGE_Freedom_Guard_Plate,    	    *,		1,		1
+        SGE_Freedom_Guard_Vest, 		    *,		1,		1
+        SGE_Freedom_Guard_Pouches_1,	    *,		1,		1
+        SGE_Freedom_Guard_Pouches_2,	    *,		1,		1
+        SGE_Freedom_Guard_Pouches_3,	    *,		1,		1
+        SGE_Freedom_Bulat_Pouches,  	    *,		1,		1
+        SGE_Freedom_Guard_Helmet,		    *,		1,		1
+
+    <Category> ТБ
+        SGE_Freedom_HeavyArmor_Jacket,		*,		1,		1
+        SGE_Freedom_HeavyArmor_Pants,		*,		1,		1
+        SGE_Freedom_HeavyArmor_Vest,		*,		1,		1
+        SGE_Freedom_Sunrise_Pouches,		*,		1,		1
+        SGE_Freedom_HeavyArmor_Helmet,		*,		1,		1
+        SGE_Loner_HeavyArmor_Balaclava,		*,		1,		1
+        SGE_Loner_HeavyArmor_Belt,		   	*,		1,		1
+        SGE_Loner_HeavyArmor_GasMask,	   	*,		1,		1
+
+    <Category> Сева
+        SGE_Freedom_Seva_Jacket,   			*,		1,		1
+        SGE_Freedom_Seva_Pants,    			*,		1,		1
+        SGE_Freedom_Seva_Vest,     			*,		1,		1
+        SGE_Freedom_Seva_BackPack, 			*,		1,		1
+        SGE_Freedom_Seva_Cape,     			*,		1,		1
+        SGE_Stalker_Sevas_Glass,   			*,		1,		1
+        SGE_Stalker_Sevas_Glass_Mate,		*,		1,		1
+        SGE_Stalker_Seva_Belt,      		*,		1,		1
+
+    <Category> Булат
+        SGE_Freedom_Bulat_Jacket,  			*,		1,		1
+        SGE_Freedom_Bulat_Pants,   			*,		1,		1
+        SGE_Freedom_Bulat_Vest,    			*,		1,		1
+        SGE_Freedom_Bulat_Pouches, 			*,		1,		1
+        SGE_Freedom_Bulat_Helmet,   		*,		1,		1
+        SGE_Bulat_Glass,          			*,		1,		1
+        SGE_Bulat_Balaclava_Black,          *,		1,		1
+        SGE_Military_Bulat_Resp,   			*,		1,		1
+        SGE_Military_Bulat_Belt,   			*,		1,		1
+        SGE_Military_Bulat_Flashlight,	    *,		1,		1
+
 	<Category> Амуниция
-		SGE_Freedom_Wind_Jacket_Dw,			*,		1,		1
-		SGE_Freedom_Wind_Jacket,			*,		1,		1
-		SGE_Freedom_Wind_Pants,			    *,		1,		1
-		SGE_Freedom_Wind_Vest,			    *,		1,		1
-		SGE_Freedom_Wind_Pouches_1,		    *,		1,		1
-		SGE_Freedom_Wind_Pouches_2,		    *,		1,		1
-		SGE_Freedom_BackPack,    			*,		1,		1
-		NewSeva_AoD_Loner_Belt,    			*,		1,		1
-		JungleBoots_Beige,      			*,		1,		1
+		SGE_Freedom_BackPack,   			*,		1,		1
 		JungleBoots_Black,      			*,		1,		1
 		JungleBoots_Brown,      			*,		1,		1
 		JungleBoots_Olive,      			*,		1,		1
