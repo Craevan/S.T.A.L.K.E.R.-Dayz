@@ -1,6 +1,54 @@
 <Trader> Суслов
-	<Category> Суслов
-		CaninaBerry,			*,		-1,		1
+	<Category> ЧН
+		---------------ЧН - 1---------------,			*,		-1,		-1
+
+		SGE_ClerSky_Jacket_CN1,     			*,		1,		1
+		SGE_ClerSky_Pants_CN1,     			    *,		1,		1
+		SGE_ClerSky_Vest_CN1,     			    *,		1,		1
+		SGE_ClearSky_Pouches_1,   			    *,		1,		1
+		SGE_ClearSky_Pouches_2,   			    *,		1,		1
+
+		---------------ЧН - 2---------------,			*,		-1,		-1
+
+        SGE_ClerSky_Jacket_CN2,     			*,		1,		1
+        SGE_ClerSky_Pants_CN2,     			    *,		1,		1
+        SGE_ClerSky_Vest_CN2,     			    *,		1,		1
+        SGE_ClearSky_Pouches1_CN2, 		    *,		1,		1
+        SGE_ClearSky_Pouches2_CN2,			    *,		1,		1
+
+        ---------------ЧН - 3---------------,			*,		-1,		-1
+
+        SGE_ClerSky_Jacket_CN3,     			*,		1,		1
+        SGE_ClerSky_Pants_CN3,     			    *,		1,		1
+        SGE_ClerSky_Vest_CN3,     			    *,		1,		1
+
+    <Category> Свежий ветер
+        SGE_ClearSky_Wind_Jacket,     			*,		1,		1
+        SGE_ClearSky_Wind_Pants,     			*,		1,		1
+        SGE_ClearSky_Wind_Vest,     			*,		1,		1
+        SGE_ClearSky_Wind_Pouches_1,   			*,		1,		1
+        SGE_ClearSky_Wind_Pouches_2,   			*,		1,		1
+
+    <Category> Заря-ЧН
+        SGE_ClearSky_Sunrise_Jacket,    		*,		1,		1
+        SGE_ClearSky_Sunrise_Pants,             *,		1,		1
+        SGE_ClearSky_Sunrise_Vest,              *,		1,		1
+        SGE_ClearSky_Sunrise_Pouches,           *,		1,		1
+
+    <Category> Сева
+        SGE_ClearSky_Seva_Jacket,       		*,		1,		1
+        SGE_ClearSky_Seva_Pants,                *,		1,		1
+        SGE_ClearSky_Seva_Vest,                 *,		1,		1
+        PlateCarrierPouches_Green,              *,		1,		1
+        SGE_ClearSky_Seva_BackPack,             *,		1,		1
+        SGE_ClearSky_Seva_Cape,                 *,		1,		1
+        SGE_Stalker_Sevas_Glass,   	    		*,		1,		1
+        SGE_Stalker_Sevas_Glass_Mate,   		*,		1,		1
+        SGE_Stalker_Seva_Belt,            		*,		1,		1
+
+    <Category> Амуниция
+        SGE_ClearSky_Sunrise_BackPack, 			*,		1,		1
+        MilitaryBoots_Black,          			*,		1,		1
 
 <OpenFile> 07_ClearSky_Holod_Prices.txt
 <FileEnd>
