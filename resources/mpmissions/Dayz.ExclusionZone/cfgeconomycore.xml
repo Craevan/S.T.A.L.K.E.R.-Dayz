@@ -23,17 +23,16 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
 	 <!-- Mod CENTRAL ECONOMY -->
     <ce folder="mod_types">
-		<file name="AMS_types.xml" type="types" />
-
+<!--		<file name="AMS_types.xml" type="types" />-->
 		<file name="CodeLock_types.xml" type="types" />
-		<file name="DeadAir_types.xml" type="types" />
-		<file name="EvenMoreDoors_types.xml" type="types" />
-		<file name="FBF_types.xml" type="types" />
-		<file name="MMGStorage_types.xml" type="types" />
-		<file name="PseudoGiant_types.xml" type="types" />
-		<file name="SimpleRadiation_types.xml" type="types" />
-		<file name="StalkerDetectorsAnomaly_types.xml" type="types" />
-		<file name="StalkerEquipmentV2_types.xml" type="types" />
-		<file name="TraderWallet_types.xml" type="types" />
+<!--		<file name="DeadAir_types.xml" type="types" />-->
+<!--		<file name="EvenMoreDoors_types.xml" type="types" />-->
+<!--		<file name="FBF_types.xml" type="types" />-->
+<!--		<file name="MMGStorage_types.xml" type="types" />-->
+<!--		<file name="PseudoGiant_types.xml" type="types" />-->
+<!--		<file name="SimpleRadiation_types.xml" type="types" />-->
+<!--		<file name="StalkerDetectorsAnomaly_types.xml" type="types" />-->
+		<file name="SGE_types.xml" type="types" />
+<!--		<file name="TraderWallet_types.xml" type="types" />-->
     </ce>
 </economycore>
