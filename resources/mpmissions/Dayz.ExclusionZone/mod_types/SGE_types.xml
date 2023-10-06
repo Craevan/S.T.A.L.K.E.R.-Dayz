@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="Helmet_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -19,7 +19,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_HeavyArmor_Balaclava">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -37,7 +37,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_HeavyArmor_Belt">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -55,7 +55,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_HeavyArmor_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -73,7 +73,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_HeavyArmor_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -91,7 +91,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_HeavyArmor_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -109,7 +109,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_HeavyArmor_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -127,7 +127,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_HeavyArmor_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -145,7 +145,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_HeavyArmor_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -163,7 +163,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_HeavyArmor_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -181,7 +181,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_HeavyArmor_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -199,7 +199,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Sunrise_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -217,7 +217,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_HeavyArmor_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -235,7 +235,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_HeavyArmor_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -253,7 +253,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_HeavyArmor_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -271,7 +271,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_HeavyArmor_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -289,7 +289,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Sunrise_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -307,7 +307,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_HeavyArmor_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -325,7 +325,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_HeavyArmor_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -343,7 +343,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_HeavyArmor_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -361,7 +361,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_HeavyArmor_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -379,7 +379,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Sunrise_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -397,7 +397,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_Beginner_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -415,7 +415,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_Beginner_Jacket_dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -433,7 +433,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_Beginner_Jacket_Camo">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -451,7 +451,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Loner_Beginner_Jacket_Camo_dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -469,7 +469,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -487,7 +487,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -505,7 +505,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -523,7 +523,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -541,7 +541,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -559,7 +559,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -577,7 +577,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -595,7 +595,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -613,7 +613,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -631,7 +631,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Seva_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -649,7 +649,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Seva_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -667,7 +667,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Seva_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -685,7 +685,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Seva_Cape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -703,7 +703,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Seva_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -721,7 +721,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Beryl_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -739,7 +739,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Beryl_BeltRig">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -757,7 +757,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Beryl_Plate">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -775,7 +775,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Beryl_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -793,7 +793,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Beryl_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -811,7 +811,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Beryl_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -829,7 +829,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Beryl_Pouches_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -847,7 +847,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -865,7 +865,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Patch_Rang_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -883,7 +883,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Patch_Rang_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -901,7 +901,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Patch_Rang_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -919,7 +919,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Patch_Rang_4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -937,7 +937,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Patch_Rang_5">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -955,7 +955,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Wind_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -973,7 +973,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Wind_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -991,7 +991,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Wind_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1009,7 +1009,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Wind_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1027,7 +1027,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Wind_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1045,7 +1045,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Wind_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1063,7 +1063,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1081,7 +1081,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Bulat_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1099,7 +1099,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Bulat_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1117,7 +1117,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Bulat_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1135,7 +1135,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Bulat_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1153,7 +1153,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Bulat_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1171,7 +1171,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Seva_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1189,7 +1189,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Seva_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1207,7 +1207,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Seva_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1225,7 +1225,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Seva_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1243,7 +1243,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Seva_Cape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1261,7 +1261,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Seva_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1279,7 +1279,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1297,7 +1297,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1315,7 +1315,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1333,7 +1333,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_BeltRig">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1351,7 +1351,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Plate">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1369,7 +1369,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1387,7 +1387,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1405,7 +1405,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1423,7 +1423,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Freedom_Guard_Pouches_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1441,7 +1441,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Art_Container_Crude">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1459,7 +1459,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_SugarCase">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1477,7 +1477,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ContainerParts">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1495,7 +1495,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Wind_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1513,7 +1513,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Wind_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1531,7 +1531,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1549,7 +1549,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Wind_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1567,7 +1567,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Wind_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1585,7 +1585,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Wind_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1603,7 +1603,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Wind_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1621,7 +1621,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Seva_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1639,7 +1639,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Seva_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1657,7 +1657,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Seva_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1675,7 +1675,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Seva_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1693,7 +1693,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Mercenaries_Seva_Cape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1711,7 +1711,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_GasMask">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1729,7 +1729,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Glass">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1747,7 +1747,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Resp">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1765,7 +1765,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Flashlight">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1783,7 +1783,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1801,7 +1801,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Belt">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1819,7 +1819,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1837,7 +1837,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Military_Bulat_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1855,7 +1855,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Wind_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1873,7 +1873,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Wind_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1891,7 +1891,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1909,7 +1909,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Wind_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1927,7 +1927,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Wind_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1945,7 +1945,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Wind_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1963,7 +1963,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Wind_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1981,7 +1981,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -1999,7 +1999,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Seva_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2017,7 +2017,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Seva_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2035,7 +2035,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Seva_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2053,7 +2053,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Seva_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2071,7 +2071,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Monolith_Seva_BCape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2089,7 +2089,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2107,7 +2107,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2125,7 +2125,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Belt">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2143,7 +2143,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2161,7 +2161,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Sunrise_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2179,7 +2179,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Sunrise_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2197,7 +2197,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Sunrise_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2215,7 +2215,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Sunrise_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2233,7 +2233,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Sunrise_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2251,7 +2251,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Sunrise_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2269,7 +2269,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Seva_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2287,7 +2287,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Seva_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2305,7 +2305,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Seva_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2323,7 +2323,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Seva_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2341,7 +2341,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Neutrals_Seva_Cape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2359,7 +2359,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Dolg_PS5M_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2377,7 +2377,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Dolg_PS5M_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2395,7 +2395,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Dolg_PS5M_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2413,7 +2413,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Dolg_PS5M_Belt">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2431,7 +2431,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_RP5_Filter">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2449,7 +2449,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_SSP_99M">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2467,7 +2467,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_SSP_90">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2485,7 +2485,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_SSP_90_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2503,7 +2503,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_SSP_90M_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2521,7 +2521,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_SSP_90_Shoes">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2539,7 +2539,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_SSP_90_Glass">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2557,7 +2557,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_GasMask_Filter">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2575,7 +2575,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_FullGasMask">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2593,7 +2593,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2611,7 +2611,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Seva_Belt">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2629,7 +2629,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sevas_Glass">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2647,7 +2647,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2665,7 +2665,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Vest_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2683,7 +2683,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket_Dw_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2701,7 +2701,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2719,7 +2719,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pants_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2737,7 +2737,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_BackPack_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2755,7 +2755,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pouches_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2773,7 +2773,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Vest_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2791,7 +2791,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket_Dw_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2809,7 +2809,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2827,7 +2827,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pants_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2845,7 +2845,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_BackPack_3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2863,7 +2863,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pouches_4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2881,7 +2881,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Vest_4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2899,7 +2899,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket_Dw_4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2917,7 +2917,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Jacket_4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2935,7 +2935,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_Pants_4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2953,7 +2953,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Stalker_Sunrise_BackPack_4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2971,7 +2971,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Jacket_CN1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -2989,7 +2989,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Jacket_CN2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3007,7 +3007,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Jacket_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3025,7 +3025,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Pants_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3043,7 +3043,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Vest_CN1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3061,7 +3061,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Vest_CN2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3079,7 +3079,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Vest_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3097,7 +3097,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClearSky_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3115,7 +3115,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClearSky_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3133,7 +3133,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClearSky_Pouches1_CN2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3151,7 +3151,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClearSky_Pouches2_CN2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3169,7 +3169,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Sunrise_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3187,7 +3187,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Sunrise_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3205,7 +3205,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3223,7 +3223,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Wind_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3241,7 +3241,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Wind_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3259,7 +3259,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Wind_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3277,7 +3277,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Wind_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3295,7 +3295,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Wind_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3313,7 +3313,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Wind_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3331,7 +3331,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Jacket_CN1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3349,7 +3349,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Jacket_CN2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3367,7 +3367,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Jacket_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3385,7 +3385,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Pants_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3403,7 +3403,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Vest_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3421,7 +3421,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Pouches1_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3439,7 +3439,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Pouches2_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3457,7 +3457,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_Vest_CN3">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3475,7 +3475,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Sunrise_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3493,7 +3493,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Wind_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3511,7 +3511,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Wind_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3529,7 +3529,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3547,7 +3547,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Wind_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3565,7 +3565,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Wind_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3583,7 +3583,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Wind_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3601,7 +3601,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Wind_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3619,7 +3619,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Seva_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3637,7 +3637,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Seva_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3655,7 +3655,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Seva_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3673,7 +3673,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Seva_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3691,7 +3691,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Bandits_Seva_Cape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3709,7 +3709,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3727,7 +3727,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Hat">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3745,7 +3745,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3763,7 +3763,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Helmet_V2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3781,7 +3781,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Pants_CN2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3799,7 +3799,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Pants_CN1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3817,7 +3817,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Wind_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3835,7 +3835,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Wind_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3853,7 +3853,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Wind_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3871,7 +3871,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Wind_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3889,7 +3889,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Sunrise_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3907,7 +3907,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Sunrise_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3925,7 +3925,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Sunrise_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3943,7 +3943,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Sunrise_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3961,7 +3961,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Sunrise_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3979,7 +3979,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Sunrise_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -3997,7 +3997,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Seva_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4015,7 +4015,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Seva_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4033,7 +4033,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Seva_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4051,7 +4051,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Seva_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4069,7 +4069,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_ClerSky_Seva_Cape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4087,7 +4087,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Bulat_Helmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4105,7 +4105,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Bulat_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4123,7 +4123,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Bulat_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4141,7 +4141,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Bulat_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4159,7 +4159,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Bulat_Pouches">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4177,7 +4177,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Wind_Pouches_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4195,7 +4195,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Wind_Pouches_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4213,7 +4213,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Patch">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4231,7 +4231,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Wind_Vest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4249,7 +4249,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Wind_Jacket_Dw">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4267,7 +4267,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Wind_Jacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4285,7 +4285,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Wind_Pants">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4303,7 +4303,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_BackPack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -4321,7 +4321,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="SGE_Duty_Seva_Cape">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600000</lifetime>
         <restock>360</restock>
         <min>3</min>
